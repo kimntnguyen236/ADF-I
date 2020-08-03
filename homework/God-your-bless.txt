@@ -1,0 +1,37 @@
+Test ADF-I có:
+- interface : display the details of item
+- implements interface - input 
+- array
+- add 
+- displayAll
+- search 
+
+
+		Pretest
+		- abstract class - accept (input) - try catch exception for validation : ID, name not null - yob must be in range [1940-2000] - printInfo (print details)
+		- derives from (extends ...)
+		- override accept(input),super class - printInfo(display details) - toString(return a string presenting all the details of a employee)
+		- array
+		- add - display - display(eName) - remove(eID) - menu
+
+
+Pretest 2
+- interface PI - double area(), peripheral(), volume()
+- array
+- abstract class accept(), printInfo()
+- derives from (extends ...) 
+- override accept(), printInfo, toString 
+- add, display, display(float v) - display cylinder having volume greater than v
+
+
+
+	Pretest 3 
+	- abstract class, abstract void print(), public void input() - Age must be between 15 and 60 (usr Calendar)
+	- array
+	- add, display, displayPass
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+print()
+printf()
+println()
+-> Ham xuat chuoi ky tu ra man hinh
+
+nextLine()
+nextInt()
+.....
+-> Ham nhap du lieu tu ban phim (Cac ham thuoc lop Scanner) (nam trong goi thu vien java.util)

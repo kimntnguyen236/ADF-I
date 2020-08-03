@@ -1,0 +1,2 @@
+gia tri thuc gui cho .... : argument (tham so thuc te) : so nguyen, ki tu, bieu thuc
+bien hinh thuc : parameter

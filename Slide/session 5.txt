@@ -1,0 +1,19 @@
+for (khởi tạo biến đếm (1), điều kiện (2), tăng giảm biến (4))
+{...(3)} 
+>>>>>>>>>>>>nếu (2) false -> kết thúc vòng lặp
+nếu (2) true (2)-(3)-(4) quay lại (2) kiểm tra điều kiện
+
+
+while(biểu thức điều kiện (1)){(2)}
+
+
+do {
+statement (1)
+} while (expression (2))  -> câu lệnh thực hiện ít nhất 1 lần
+
+break -> thoát khỏi vòng lặp <--kết thúc 1 case (switch-case)-->
+continue -> tiếp tục chạy câu lệnh đầu tiên của vòng lặp (bỏ qua những câu lệnh bên dưới continue)
+return -> kết thúc 1 hàm
+
+for-each : duyệt từng phần tử bên trong mảng(giống for-in trong Javascript) -> chỉ phù hợp khi làm việc trên mảng
+biến String -> gọi hàm nextLine

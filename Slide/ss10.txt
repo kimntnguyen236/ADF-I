@@ -1,0 +1,4 @@
+mạnh nhất Public
+chặt chẽ nhất Protected
+hàm override của lớp con không được nhỏ hơn lớp cha : mạnh hoặc bằng hơn lớp cha 
+lớp cha : protected lớp con: protected or public

@@ -1,0 +1,17 @@
+-public để các class bên ngoài có thể truy cập được
+
+-trim() cắt khoảng trắng dư thừa ở đầu hoặc cuối
+
+-hàm dựng không dùng void
+
+-lưu trữ biến cục bộ trong chương trình hàm -> Stack
+-cấp phát vùng nhớ động -> Heap
+
+- tính chất cơ bản của lập trình hướng đối tượng : 
+kế thừa, bao đống (Encapsulation), trừu tượng và đa hình 
+- java : thừa kế đơn 
+- C++ : thừa kế đa (cực phức tạp quản lí bộ nhớ, lập trình cấu trúc dữ liệu nhiều)
+
+- Dùng để thể hiện tính bao đống : Access Modifiers
+- tính kế thừa thực hiện thông qua : protected (Access Modifiers)
+- default : trong một package đều có thể sử dụng được
